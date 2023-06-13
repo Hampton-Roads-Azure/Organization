@@ -1,7 +1,7 @@
 ---
 name: Monthly User Group Meeting
 title: (MONTH) 2023 Meeting
-description : Use this template to create a new issue for each monthly user group meeting.
+about : Use this template to create a new issue for each monthly user group meeting.
 labels: NEED SPEAKER
 ---
 
@@ -23,5 +23,3 @@ labels: NEED SPEAKER
 
 **Additional Information:**
 (Any other information or questions you have about this meeting)
-
-zz
