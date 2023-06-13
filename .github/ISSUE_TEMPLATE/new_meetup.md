@@ -1,13 +1,27 @@
 ---
-name: New Meetup 
-about: Used to announce meetups
-title: 'Month DD, {YYYY} Meeting'  <!-- Replace {YYYY} with actual year placeholder -->
+name: Monthly User Group Meeting
+title: (MONTH) 2023 Meeting
+description : Use this template to create a new issue for each monthly user group meeting.
 labels: NEED SPEAKER
-assignees: ''
-
 ---
 
-Meeting Date: Month DD, {YYYY}*  <!-- Replace {YYYY} with actual year placeholder -->
-Speaker: [ TODO ]  
+## Meeting Information
 
-Speakers, please provide a short bio, topic, and description to help us announce and promote your talk.
+**Meeting Date:**
+(Required. Please enter the meeting date in the following format: YYYY-MM-DD)
+
+**Meeting Title:**
+(Required. Please provide a brief, descriptive title for the meeting)
+
+## Meeting Details
+
+**Agenda:** 
+(Please detail the topics for discussion)
+
+**Speaker Requests:**
+(Please list any potential speakers for this meeting. If none, leave this section blank)
+
+**Additional Information:**
+(Any other information or questions you have about this meeting)
+
+zz
